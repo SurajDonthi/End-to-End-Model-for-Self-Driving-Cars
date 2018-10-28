@@ -14,6 +14,8 @@ The model network consists of preprocessin steps and is fed into a 10 layer CNN.
 ## Datasets
 The following Datasets by Udacity are appropriate and in full relevance to the Deep Learning Model presented here. However, the raw sensory data are stored in `rosbag (.bag)` format. It needs to extracted using the ROS Python API. A full description of the procedure for extracting the data can be found in the 'Datasets' directory.
 
+#### Download any one of the datasets for training.
+
 <table>
   <tr>
     <td rowspan=2 align="center"><h3>Datasets
